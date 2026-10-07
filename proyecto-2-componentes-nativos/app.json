@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Componentes nativos · NP",
+    "slug": "proyecto-2-componentes-nativos",
+    "version": "1.0.0",
+    "scheme": "componentesnativos",
+    "orientation": "default",
+    "userInterfaceStyle": "automatic",
+    "web": { "output": "static" },
+    "plugins": ["expo-router"],
+    "experiments": { "typedRoutes": true }
+  }
+}
